@@ -17,7 +17,7 @@ say('LoliBot-MD', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(`by: elrebelde21`, {
+say(`by: Ghost bot`, {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']});

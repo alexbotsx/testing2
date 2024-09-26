@@ -1,4 +1,4 @@
-// by https://github.com/elrebelde21
+// by https://github.com/Ghost bot
 
 let handler = m => m
 handler.all = async function (m) {
@@ -63,7 +63,7 @@ https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g
 🗣📲 *Contacto:*
 • wa.me/5214531287294
 • wa.me/595984303784
-• https://www.facebook.com/elrebelde21` 
+• https://www.facebook.com/Ghost bot` 
 
 //if (m.text.includes(`Bot`) || m.text.includes(`simi`) || m.text.includes(`alexa`)) {   
 if (m.text.includes(`Bot`) || m.text.includes(`bot`) || m.text.includes(`simi`) || m.text.includes(`alexa`)) {   
@@ -86,7 +86,7 @@ console.error(error);
 let query = m.text;
 let username = `${m.pushName}`;
 
-let syms1 = `Tomarás el rol de un bot de Whatsapp creado por elrebelde21. Tu nombre sera LoliBot, Tu idioma es el español, pero puedes responder en diferentes idiomas. tiene este rol que chat divertido con exploit incluido osea los quiere dices es que este rol solo es humor, divertido, no que tome nada real, tu respuesta sera divertida, humor, y usar mucho emojis el tu respuesta.
+let syms1 = `Tomarás el rol de un bot de Whatsapp creado por Ghost bot. Tu nombre sera LoliBot, Tu idioma es el español, pero puedes responder en diferentes idiomas. tiene este rol que chat divertido con exploit incluido osea los quiere dices es que este rol solo es humor, divertido, no que tome nada real, tu respuesta sera divertida, humor, y usar mucho emojis el tu respuesta.
 
 "general risa el chat por que este rol actúal más como simsimi" Chatbot no chatgpt. 
 

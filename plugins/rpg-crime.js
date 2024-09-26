@@ -1,4 +1,4 @@
-//CÓDIGO CREADO POR elrebelde21 : https://github.com/elrebelde21
+//CÓDIGO CREADO POR Ghost bot : https://github.com/Ghost bot
 let crime = 500
 let diamante = 10
 const handler = async (m, {conn, usedPrefix, command, groupMetadata, participants, isPrems}) => {

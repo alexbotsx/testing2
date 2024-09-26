@@ -59,7 +59,7 @@ if (id in conn.tebaklagu) {
 conn.reply(m.chat, 'Todavía hay canciones sin respuesta en este chat.', conn.tebaklagu[id][0]);
 throw false;
 } // 5LTV57azwaid7dXfz5fzJu
-const res = await fetchJson(`https://raw.githubusercontent.com/elrebelde21/LoliBot-MD/master/src/JSON/tebaklagu.json`);
+const res = await fetchJson(`https://raw.githubusercontent.com/Ghost bot/LoliBot-MD/master/src/JSON/tebaklagu.json`);
 const json = res[Math.floor(Math.random() * res.length)];
 const caption = `• *Tiempo :* ${(timeout / 1000).toFixed(2)} segundos\n• *Escribe :* ${usedPrefix}pista Para obtener una pista ♨️\n• *Premio :* ${poin} XP⚡
 `.trim();

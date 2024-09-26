@@ -1452,7 +1452,7 @@ global.dfail = (type, m, conn, usedPrefix) => {
         private: '[❗] Este comando solo. funciona el privado del bot',
         admin: '[❗] Este comando solo puede ser utilizado por administradores del grupo',
         botAdmin: '[❗] Este comando solo se puede usar cuando el bot se convierte en administrador',
-        unreg: '「NO ESTAS REGISTRADO」\n\nPA NO APARECES EN MI BASE DE DATOS ✋🥸🤚\n\nPara poder usarme escribe el siguente comando\n\nComando: #reg nombre.edad\nEjemplo: #reg elrebelde.21',
+        unreg: '「NO ESTAS REGISTRADO」\n\nPA NO APARECES EN MI BASE DE DATOS ✋🥸🤚\n\nPara poder usarme escribe el siguente comando\n\nComando: #reg nombre.edad\nEjemplo: #reg ghostbot.21',
         restrict: '[ 🔐 ] Este comando esta desactivado por mi jefe'
     }[type]
     if (msg) return conn.sendMessage(m.chat, {text: msg,  contextInfo: {externalAdReply : {mediaUrl: null, mediaType: 1, description: null, "title": `ℹ️𝐈𝐍𝐅𝐎 ℹ️`, body: wm, previewType: 0, "thumbnail": img.getRandom(), sourceUrl: [nna, md, yt, nn, tiktok].getRandom()}}}, { quoted: m })

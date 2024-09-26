@@ -1,4 +1,4 @@
-// by https://github.com/elrebelde21 & https://github.com/GataNina-Li
+// by https://github.com/Ghost bot & https://github.com/GataNina-Li
 import { randomBytes } from 'crypto'
 
 let handler = async (m, { conn, command, participants, usedPrefix, text }) => { 

@@ -1,7 +1,7 @@
 > <b>🚀 Versión actual: 1.9.5</b>
  
 <p align="center"> 
-<a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=LoliBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
+<a href="https://github.com/Ghost bot"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=LoliBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
 </p>
 
 <p align="center">
@@ -14,13 +14,13 @@
 </p>  
 
 <p align="center">
-<a href="#"><img title="The-LoliBot-MD" src="https://img.shields.io/badge/LEA TODO EL README-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a> 
+<a href="#"><img title="Ghost BOT MD" src="https://img.shields.io/badge/LEA TODO EL README-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a> 
 <a href="#"><img title="LoliBot-MD" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
 
 <p align="center">   
-<a href="https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/elrebelde21/LoliBot-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/elrebelde21/LoliBot-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/elrebelde21/The-LoliBot-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/elrebelde21/LoliBot-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ghost bot/LoliBot-MD?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Ghost bot/LoliBot-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Ghost bot/LoliBot-MD?label=Stars&color=yellow&style=flat-square"></a>
 </p> 
 
 <div align="center">
@@ -68,7 +68,7 @@
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/elrebelde21/LoliBot-MD/master/install.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Ghost bot/LoliBot-MD/master/install.sh | bash
 ```
 -----
 ### 📁 (OPCIÓN 2) 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗 - 𝘼𝙍𝘾𝙃𝙄𝙑𝙊𝙎 
@@ -122,17 +122,17 @@ npm start
 - **Comunidad - WhatsApp** [`Aquí`](https://chat.whatsapp.com/HR3OLhsuZPqCMImzuHcuON)
 - **Support:** [`Bot exclusivo`](https://wa.me/message/FETBF7YBO37CG1)
 - **Contacto:** [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1)
-- **Contacto:** [`elrebelde21`](https://facebook.com/elrebelde21)
+- **Contacto:** [`Ghost bot`](https://facebook.com/Ghost bot)
 
 - [x] **Configuración** <details><summary>**Ajustes del Servidor - LoliBot-MD**</summary><img src="https://telegra.ph/file/7ddd30dd7d77354fb01fe.jpg"></details>
 ----
 ### ⚡ ACTIVA EL REPLIT
 [![blog](https://img.shields.io/badge/Lolibot-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/SMjCcfuyWQE)
-<a target="_blank" href="https://replit.com/github/elrebelde21/LoliBot-MD"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
-<a href="https://replit.com/github/elrebelde21/LoliBot-MD"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
+<a target="_blank" href="https://replit.com/github/Ghost bot/LoliBot-MD"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
+<a href="https://replit.com/github/Ghost bot/LoliBot-MD"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
 ------------------
-- [x] Resultado <details><summary>Importar Repositorio - The-LoliBot-MD</summary><img src="https://i.imgur.com/GQyRnMf.jpg"></details>
+- [x] Resultado <details><summary>Importar Repositorio - Ghost BOT MD</summary><img src="https://i.imgur.com/GQyRnMf.jpg"></details>
 ----  
 ### `📝 NOTA 📝`
 ```bash
@@ -146,7 +146,7 @@ npm start
 ----
 
 ### 🌟 EDITOR Y PROPIETARIO DEL BOT
-<a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.png" width="300" height="300" alt="elrebelde21"/></a>
+<a href="https://github.com/Ghost bot"><img src="https://github.com/Ghost bot.png" width="300" height="300" alt="Ghost bot"/></a>
 
 ### 🌟 COLABORADORES
 [![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 

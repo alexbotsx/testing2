@@ -38,7 +38,7 @@ ${md}
 
 * termux-setup-storage
 
-* apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/elrebelde21/LoliBot-MD/master/install.sh | bash
+* apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/Ghost bot/LoliBot-MD/master/install.sh | bash
 
 \`📌 𝙊𝙋𝘾𝙄𝙊𝙉: 2 𝘼𝙍𝘾𝙃𝙄𝙑𝙊\`
 > *https://youtu.be/i1xjB4bmYCc*

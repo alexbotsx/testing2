@@ -68,8 +68,8 @@ global.moment = moment
 
 //------------------------[ Stickers ]-----------------------------
 
-global.packname = 'LoliBot'
-global.author = 'elrebelde21'
+global.packname = 'Ghost Bot'
+global.author = 'Ghost Bot'
 
 //------------[ Versión | Nombre | cuentas ]------------
 
@@ -77,9 +77,9 @@ global.wm = '𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓'
 global.botname = '𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓'
 global.vs = '1.9.5'
 global.yt = 'https://www.youtube.com/@elrebelde.21'
-global.tiktok = 'tiktok.com/@elrebelde21'
+global.tiktok = 'tiktok.com/@Ghost bot'
 global.md = 'https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT'
-global.fb = 'https://www.facebook.com/elrebelde21'
+global.fb = 'https://www.facebook.com/Ghost bot'
 global.face = 'https://www.facebook.com/groups/872989990425789/'
 
 global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //Update
