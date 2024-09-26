@@ -62,7 +62,7 @@ https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g
 
 🗣📲 *Contacto:*
 • wa.me/5214531287294
-• wa.me/573147616444
+• wa.me/595984303784
 • https://www.facebook.com/elrebelde21` 
 
 //if (m.text.includes(`Bot`) || m.text.includes(`simi`) || m.text.includes(`alexa`)) {   
@@ -140,7 +140,7 @@ conn.reply(m.chat, `𝑩𝒊𝒆𝒏 𝒄𝒂𝒑𝒐 😎 𝒚 𝒕𝒖`, m) }
 if (/^e$/i.test(m.text) ) { //sem prefixo
 conn.reply(m.chat, `𝑸𝒖𝒆 𝒃𝒖𝒆𝒏𝒐 𝒔𝒂𝒃𝒆𝒓 𝒍𝒂 𝒍𝒆𝒕𝒓𝒂 𝒆`, m)}
 
-if (/^@5492266466080|@56964787183|@5492266613038$/i.test(m.text) ) {
+if (/^@595984303784|@56964787183|@595984303784$/i.test(m.text) ) {
 conn.reply(m.chat, `*_[ ⚠ ️] No etiquetes a mi creador, si tiene alguna consulta o dudas, hablarle el pv solo por tema del bot_*`, m) }
 
 /* if (/^Mande porno|porno|paja$/i.test(m.text) ) { //sem prefixo

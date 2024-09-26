@@ -25,7 +25,7 @@ https://atom.bio/lolibot
 *⇶⃤꙰𝑬𝒏𝒍𝒂𝒄𝒆 𝒍𝒐𝒍𝒊𝒃𝒐𝒕ꦿ⃟⃢*
 *${nnnttt}*`.trim() 
 conn.reply(m.chat, info, m) 
-//conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '𝙏𝙝𝙚-𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', 'status@broadcast')
+//conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '𝙏𝙝𝙚-𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓', 'status@broadcast')
 }
 handler.help = ['grupos']
 handler.tags = ['main']
